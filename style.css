@@ -1,5 +1,10 @@
 
-
+.image{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: auto;
+}
 
 .main{
     padding-top: 20rem;
